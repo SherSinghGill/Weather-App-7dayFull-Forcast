@@ -1,2 +1,2 @@
-# Weather-App-7dayFull-Forcast
-Weather Forecast App using Python and OpenWeather API
+# Weather App Big Version
+Placeholder README
